@@ -1,0 +1,18 @@
+.logo { border-radius: 50%; width: 70px; height: 70px;
+    background-image: var(--img-url);}
+.brand-text{font-size: 100%;padding-left: 10px;margin-top: auto;margin-bottom: auto;color: #5C6C82;}
+.navbar-collapse{margin-right: 5%;}
+.halaman_depan{margin-left: auto;margin-right: auto;display: block;}
+.navbar-brand{border-radius: 45px; padding-left: 5px;padding-right: 30px; background-color: #C4D7F2;}
+.nav-item{padding-right: 20px;padding-left: 20px;border-right-style:solid;border-color:#C4D7F2;border-width: 2px;}
+#myVideo{object-fit: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+z-index: -5;}
+.border-bottom {
+    text-align: center;
+    margin-top:500px;
+}
